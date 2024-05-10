@@ -1,7 +1,7 @@
 # The Upcoming Updates to New York City Zoning with the City of Yes for Economic Opportunity
 This project aims to combine my previous work on the zoning code and the City of Yes proposal from the Mayor's Office into a visual map meant for those who have zero to very limited information about the city's zoning code. The site provides a brief overview of the zoning code and then describes some of the key changes the City of Yes is hoping to achieve. 
 ## The site:
-Here is the link to the live site:
+Here is the link to the live site: https://amanpatel800.github.io/AP-Final-Project/
 
  Please explore, and if there are any updates or requests, please email me at amanpatel800@gmail.com, and I will do my best to update this project. My goal is to make this project as helpful as possible, and I thank you for your time and input!
 
