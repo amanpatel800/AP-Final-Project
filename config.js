@@ -7,7 +7,7 @@ var config = {
     //projection: 'equirectangular',
     //Read more about available projections here
     //https://docs.mapbox.com/mapbox-gl-js/example/projections/
-    inset: false, 
+    inset: false,
     // I turned the inset map off since the focus is New York City, rather than a larger area
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
@@ -82,6 +82,7 @@ var config = {
                     opacity: 0.25,
                 },
             ],
+            // this exit code is important to ensure that the layers do not show when they are not needed and helps keep the map from being to disorganized.
             onChapterExit: [
                 {
                     layer: 'sub-districts',
