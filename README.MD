@@ -18,6 +18,8 @@ trucks: the lines of the trucking routes throughout the city
 fidi and kipsbay: the neighborhood layers 
 
 The image below shows the exact names of the layers if you would like to use this style in your projects!
+
+
 <img width="166" alt="Screenshot 2024-05-10 at 2 03 19 PM" src="https://github.com/amanpatel800/AP-Final-Project/assets/144968354/1480e4bd-2e05-4abe-8fec-842466b94471">
 
 ## Step 2:
