@@ -1,8 +1,12 @@
 # The Upcoming Updates to New York City Zoning with the City of Yes for Economic Opporuntiy
 This project aims to combine my pervious work on the zoning code and the City of Yes proposal from the Mayor's Office into a visual map meant for those who have zero to very limited information about the city's zoning code. The site provides a breif overview of the zoning code then describes some of the key changes the City of Yes is hoping to achieve. 
+## The site:
+Here is the link to the live site:
+
+ Please explore, and if there are any updates or requests, please email me at amanpatel800@gmail.com and I will do my best to update this project. My goal is to make this project as helpful as possible, and I thank you for your time and input!
 
 ## Step 1:
-Before beggining this project, I collected mapping data from NYCOpen Data and uploaded the data into MapBox Studio. I began adding the needed layers. The layers include:
+Before beggining this project, I collected mapping data from NYCOpen Data and uploaded the data into MapBox Studio. I began adding the needed layers. The raw GeoJSON data can also be found here within this GitHub repo. The layers include:
 zoning: the overall zoning map
 special-districts: the map of all of the special districts 
 sub-districts: the outlines of all of the special subdistricts
