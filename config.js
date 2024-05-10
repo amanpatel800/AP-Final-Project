@@ -16,7 +16,7 @@ var config = {
     title: 'A Brief Introduction to the City of Yes for Economic Opportunity',
     subtitle: 'New York City zoning, its impacts, and the upcoming changes',
     byline: 'Aman Patel',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.<br>City of Yes Information from <a href="https://www.nyc.gov/site/planning/plans/city-of-yes/city-of-yes-economic-opportunity.page">NYC Planning</a><br>GeoJSON data source from <a href="https://opendata.cityofnewyork.us/">NYC Open Data</a><br>SPARC Information from <a href="https://edc.nyc/project/sparc-kips-bay">NYCEDC</a>',
+    footer: 'Source: <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.<br>City of Yes Information from <a href="https://www.nyc.gov/site/planning/plans/city-of-yes/city-of-yes-economic-opportunity.page">NYC Planning</a><br>GeoJSON data source from <a href="https://opendata.cityofnewyork.us/">NYC Open Data</a><br>SPARC Information from <a href="https://edc.nyc/project/sparc-kips-bay">NYCEDC</a>',
     chapters: [
         {
             id: 'intro',
@@ -24,7 +24,7 @@ var config = {
             hidden: false,
             title: 'What is zoning, and why does it matter?',
             image: './images/intro.png',
-            description: 'In New York City, zoning was first established in 1916 through the Zoning Resolution to help regulate areas of land based on uses, location, and other related features. The city government chose to establish zoning districts in reaction to taller buildings limiting sunlight, a housing crisis, and changes in how we work and live. This resolution was updated several times throughout the last 100 years or so. Still, the City of Yes for Economic Opportunity seeks to alter the resolution for much the same reasons drastically it was first established. The policy includes 18 proposals with several changes to the current zoning code. Continue scrolling to a brief introduction to the proposed amendments.',
+            description: 'In New York City, zoning was first established in 1916 through the Zoning Resolution to help regulate areas of land based on uses, location, and other related features. The city government chose to establish zoning districts in reaction to taller buildings limiting sunlight, a housing crisis, and changes in how we work and live. This resolution was updated several times throughout the last 100 years or so. Still, the City of Yes for Economic Opportunity seeks to alter the resolution for many of the same reasons from it was first established. The policy includes 18 proposals with several changes to the current zoning code. Continue scrolling to a brief introduction to the proposed amendments.',
             location: {
                 center: [-73.935242, 40.730610],
                 zoom: 10,
@@ -193,7 +193,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Improving Quality of Life',
-            description: 'Many of the goals mentioned above aim to improve business and their processes. New Yorkers love their deliveries and consume lots of goods, requiring vast amounts of truck deliveries over the bridges and through the tunnels. The blue lines throughout the map display all of the truck routes within and coming into the city. The City of Yes aims to improve road safety, reduce pollution, and alter how New Yorkers receive their shipments. <br><br> the City of Yes will alter the zoning code, specifically it will alter Use Group 9 in commercial zones to allow for micro-distribution. Micro-distribution facilities will allow for bike-based deliveries and reduce truck traffic throughout the city.',
+            description: 'Many of the goals mentioned above aim to improve business and their processes. New Yorkers love their deliveries and consume lots of goods, requiring vast amounts of truck deliveries over the bridges and through the tunnels. The blue lines throughout the map display all of the truck routes within and coming into the city. The City of Yes aims to improve road safety, reduce pollution, and alter how New Yorkers receive their shipments. <br><br> The City of Yes will alter the zoning code, specifically it will alter Use Group 9 in commercial zones to allow for micro-distribution. Micro-distribution facilities will allow for bike-based deliveries and reduce truck traffic throughout the city.',
             location: {
                 center: [-73.97816, 40.75742],
                 zoom: 12.5,
@@ -249,7 +249,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'A Post-Pandemic World',
-            description: 'As the city exists during the pandemic recovery period, our city planning and design must take into account the new world in which we operate and live. Before the pandemic, we designed around the idea of Central Business Districts, such as the Financial District or the Midtown Special District; with work from home, fewer in-person office commutes, and more diverse types of work and life, the idea of a Central Business District is slowly going away. Office space and its usage is declining. City of Yes for Economic Opportunity aims to recenter city design towards the idea of work and living throughout the city rather than in concentrated city centers. The proposal seeks to allow businesses, offices, and housing to spread out throughout the city. We want to work, live, and play in our neighborhoods. <br><br> This will affect the way transit is also developed. As you can see, the subway is aimed at bringing workers into central business districts and taking them home. This will all slowly start to change with the introduction of new lines such as the Inter Bourgh Express.',
+            description: 'As the city exists during the pandemic recovery period, our city planning and design must take into account the new world in which we operate and live. Before the pandemic, we designed around the idea of Central Business Districts, such as the Financial District or the Midtown Special District; with work from home, fewer in-person office commutes, and more diverse types of work and life, the idea of a Central Business District is slowly going away. Office space and its usage is declining. City of Yes for Economic Opportunity aims to recenter city design towards the idea of work and living throughout the city rather than in concentrated city centers. The proposal seeks to allow businesses, offices, and housing to spread out throughout the city. We want to work, live, and play in our neighborhoods. <br><br> This will affect the way transit is also developed. As you can see, the subway is aimed at bringing workers into central business districts and taking them home. This will all slowly start to change with the introduction of new lines such as the Inter Borough Express.',
             location: {
                 center: [-74.00944, 40.70875],
                 zoom: 14,
