@@ -1,6 +1,6 @@
 var config = {
     // the sytle map is a custom map developed in MapBox Studio
-    style: 'mapbox://styles/amanpatel800/clvx0c97k06xw01ph2bjf86ys/draft',
+    style: 'mapbox://styles/amanpatel800/clvx0c97k06xw01ph2bjf86ys',
     accessToken: 'pk.eyJ1IjoiYW1hbnBhdGVsODAwIiwiYSI6ImNsdXVmZWJ5MzA5MmcybG1yY2V3eTMyZDMifQ.A_5kQPFLvNojfE_f8E5nWg',
     showMarkers: false,
     markerColor: '#3FB1CE',
