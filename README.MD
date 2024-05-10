@@ -17,13 +17,17 @@ commercial: all of the commercial districts
 trucks: the lines of the trucking routes throughout the city 
 fidi and kipsbay: the neighborhood layers 
 
-The image below shows the exact names of the layers if you would like to use this style in your projects!
+The image to the below shows the exact names of the layers if you would like to use this style in your projects!
+
+<img width="166" alt="Screenshot 2024-05-10 at 2 03 19 PM" src="https://github.com/amanpatel800/AP-Final-Project/assets/144968354/1480e4bd-2e05-4abe-8fec-842466b94471">
 
 ## Step 2:
 From here, I pulled the code for storytelling from MapBox and began editing and adding layers to the map. The first image I wanted to display was an overview of the zoning code as it stands today. The image below shows this:
+<img width="1141" alt="Screenshot 2024-05-10 at 2 05 15 PM" src="https://github.com/amanpatel800/AP-Final-Project/assets/144968354/f012b063-56a9-4c27-bae7-29dd02dfcb68">
 
 ## Step 3:
 One of the more confusing aspects of the zoning codes is the classification system into Special Districts and Sub-Districts. To help the reader better understand this, I displayed the differences visually. The image below shows the Fifth Ave subdistrict within the Midtown Special District.
+<img width="965" alt="Screenshot 2024-05-10 at 2 08 13 PM" src="https://github.com/amanpatel800/AP-Final-Project/assets/144968354/d62eb0ad-8ba6-4109-a247-6f648feb205e">
 
 ## Step 4: 
 From here, getting the information for the EDC, NYC Planning, and related sources was a journey down memory lane as I have extensive experience working on zoning through the Future of Fifth project. I gathered the sources, implemented the information into the code, and enjoyed getting the layers to display properly.
